@@ -14,11 +14,9 @@ Cats
 Ninjas
 
 ###Node Packaged Modules
-$ npm install 
-$ npm install express 
-$ npm install morgan 
-$ npm install ejs 
+$ npm install express morgan ejs 
 
+###Contributor
 Jessica Raines
 
 ###License
